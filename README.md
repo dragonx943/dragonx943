@@ -1,7 +1,7 @@
-- 👋 Hi, Tôi là dragonx943
+- 👋 Hi, Tôi là Draken, dragonx943
 - 👀 Tôi luôn đi stolen và Việt Hóa code của người khác
-- 🌱 Tôi đang thử học py và node
-- 💞️ Bruh
+- 🌱 Tôi đang thử / nghiên cứu học py và js
+- 💞️ Leader của Team P, Bruh
 - 📫 !???
 
 <!---
