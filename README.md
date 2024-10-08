@@ -9,7 +9,7 @@
     <br />
     <a href="https://www.facebook.com/draggonx943">Facebook</a>
     ·
-    <a href="https://discord.com/users/566107750300647458">Discord</a>
+    <a href="https://discord.com/users/954613690638929970">Discord</a>
     <br />
     </p>
 </p>
