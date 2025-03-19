@@ -1,11 +1,11 @@
-$${\color{pink}⋆—————✧◦♚◦✧—————「 \space I \space love \space you, with \space all \space my \space life \space 」—————✧◦♚◦✧—————⋆}$$
+$${\color{pink}⋆————✧◦♚◦✧—————「 \space I \space love \space you, with \space all \space my \space life \space 」————✧◦♚◦✧—————⋆}$$
 
 <br>
 <img src="./.github/lumia.png" width="100%" alt="Moshi moshi, hold on desu~">
 
 <p align="center">「This is "Draken" in VRChat, Lumia took it~」</p>
 
-$${\color{pink}⋆———✧◦♚◦✧———————————————————————————✧◦♚◦✧———⋆}$$
+$${\color{pink}⋆———✧◦♚◦✧————————————————————————✧◦♚◦✧———⋆}$$
 
 $${\color{pink}「 \space Player \space status \space 」}$$
 <br>
@@ -18,7 +18,7 @@ $${\color{pink}「 \space Player \space status \space 」}$$
 
 </div>
 
-$${\color{pink}⋆———✧◦♚◦✧———————————————————————————✧◦♚◦✧———⋆}$$
+$${\color{pink}⋆———✧◦♚◦✧————————————————————————✧◦♚◦✧———⋆}$$
 
 $${\color{pink}「 \space I'm \space supporting \space for... \space 」}$$
 <br>
@@ -39,7 +39,7 @@ $${\color{pink}「 \space I'm \space supporting \space for... \space 」}$$
 </a><br></br>
 </div>
 
-$${\color{pink}⋆———✧◦♚◦✧———————————————————————————✧◦♚◦✧———⋆}$$
+$${\color{pink}⋆———✧◦♚◦✧————————————————————————✧◦♚◦✧———⋆}$$
 
 $${\color{pink}「 \space My \space terminal \space (Arch \space Linux) \space 」}$$
 <br>
@@ -66,7 +66,7 @@ root@dra-arch:~# pacman -Syy && pacman -S zsh neovim docker
 @@ private fun toDoList() = arraySetOf() @@
 ```
 
-$${\color{pink}⋆———✧◦♚◦✧———————————————————————————✧◦♚◦✧———⋆}$$
+$${\color{pink}⋆———✧◦♚◦✧————————————————————————✧◦♚◦✧———⋆}$$
 
 <div align="center" width="100%">
 
