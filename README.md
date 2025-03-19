@@ -80,7 +80,7 @@ llllllllllllll  lllllllllllllllllll            Mem%:  -=[ //////////           ]
                        ````''*::cll
                                  ``
                                 
-   ~  shutdown -s -t 0
+ W -> ~ -> shutdown -s -t 0
 ```
 
 ```diff
