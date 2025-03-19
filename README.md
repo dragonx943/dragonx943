@@ -60,10 +60,11 @@ root@dra-arch:~# pacman -Syy && pacman -S zsh neovim docker
 
 ```diff
 - helloworld("Print")
-! Hmmmmm...
 + print("Hello world")
+! printf("Hello world");
+! cout << "Hello World";
+@@ System.out.println("Hello world") @@
 # I need to go outside and touch grass more!
-@@ private fun toDoList() = arraySetOf() @@
 ```
 
 $${\color{pink}⋆———✧◦♚◦✧——————————————————————✧◦♚◦✧———⋆}$$
