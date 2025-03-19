@@ -85,10 +85,11 @@ llllllllllllll  lllllllllllllllllll            Mem%:  -=[ //////////           ]
 
 ```diff
 - helloworld("Print")
-! Hmmmmm...
 + print("Hello world")
+! printf("Hello world");
+! cout << "Hello world";
+@@ private fun toDoList() = arraySetOf(...) @@
 # I need to go outside and touch grass more!
-@@ private fun toDoList() = arraySetOf() @@
 ```
 
 $${\color{pink}⋆———✧◦♚◦✧——————————————————————✧◦♚◦✧———⋆}$$
