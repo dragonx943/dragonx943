@@ -55,16 +55,40 @@ $${\color{pink}「 \space My \space terminal \space (Arch \space Linux) \space �
                 ||     ||
 
 
-root@dra-arch:~# pacman -Syy && pacman -S zsh neovim docker
+root@arch:~# pacman -Syy && pacman -S zsh neovim docker
+```
+
+```
+                                ..,
+                    ....,,:;+ccllll            Dra@DRAKEN
+      ...,,+:;  cllllllllllllllllll            --------------
+,cclllllllllll  lllllllllllllllllll            OS: Windows 10 Pro
+llllllllllllll  lllllllllllllllllll            Build: 22H2 (19045)
+llllllllllllll  lllllllllllllllllll            Uptime: 7 days, 7 hours, 7 minutes
+llllllllllllll  lllllllllllllllllll            Resolution: 1920x1080 @90Hz
+llllllllllllll  lllllllllllllllllll            Terminal: Alacritty
+llllllllllllll  lllllllllllllllllll            CPU: Intel(R) Xeon(R) CPU E3-1505M v5 @ 2.80GHz
+                                               GPU: NVIDIA Quadro M1000M
+llllllllllllll  lllllllllllllllllll            Memory: 6186 MB / 16270 MB (38% in use)
+llllllllllllll  lllllllllllllllllll            Disk: C:\ 510.24 GB
+llllllllllllll  lllllllllllllllllll
+llllllllllllll  lllllllllllllllllll            
+llllllllllllll  lllllllllllllllllll
+llllllllllllll  lllllllllllllllllll            Mem%:  -=[ //////////           ]=-
+`'ccllllllllll  lllllllllllllllllll            Disk%: -=[ /////                ]=-
+      `' \\*::  :ccllllllllllllllll
+                       ````''*::cll
+                                 ``
+                                
+   ~  shutdown -s -t 0
 ```
 
 ```diff
 - helloworld("Print")
+! Hmmmmm...
 + print("Hello world")
-! printf("Hello world");
-! cout << "Hello World";
-@@ System.out.println("Hello world") @@
 # I need to go outside and touch grass more!
+@@ private fun toDoList() = arraySetOf() @@
 ```
 
 $${\color{pink}⋆———✧◦♚◦✧——————————————————————✧◦♚◦✧———⋆}$$
