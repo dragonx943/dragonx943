@@ -13,7 +13,7 @@ css?family=Sofia">
 ------------------------------
 
 <p align="center"> Player Status ??? </p>
-<br><br>
+<br>
 
 <div align="center">
 
