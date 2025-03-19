@@ -1,11 +1,11 @@
 <p align="center">
-    <strong style="font-size: 18px;">⋆———✧◦♚◦✧——— <span style="color: #FF69B4;">I love you, with all my life</span> ———✧◦♚◦✧———⋆</strong>
+    <strong style="font-size: 18px;">⋆———✧◦♚◦✧———「I love you, with all my life」———✧◦♚◦✧———⋆</strong>
 </p>
 
 <br>
 <img src="./.github/lumia.png" width="100%" alt="Moshi moshi, hold on desu~">
 
-<p align="center">This is Draken in VRChat, Lumia took it~</p>
+<p align="center">「This is "Draken" in VRChat, Lumia took it~」</p>
 
 ------------------------------
 
@@ -73,3 +73,11 @@ root@dra-arch:~# pacman -Syy && pacman -S zsh neovim docker
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31btbkh4lektfx73fh2wpj3crzdm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31btbkh4lektfx73fh2wpj3crzdm&redirect=true)
 
 </div>
+
+------------------------------
+
+<div align="center">
+
+「Porns are temporary, success is forever...」
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
