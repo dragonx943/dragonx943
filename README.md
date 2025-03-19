@@ -1,4 +1,4 @@
-$${\color{pink}⋆————✧◦♚◦✧—————「 \space I \space love \space you, with \space all \space my \space life \space 」————✧◦♚◦✧—————⋆}$$
+$${\color{pink}⋆————✧◦♚◦✧———「 \space I \space \space LOVE \space \space YOU, \space WITH \space \space ALL \space \space MY \space \space LIFE \space 」———✧◦♚◦✧————⋆}$$
 
 <br>
 <img src="./.github/lumia.png" width="100%" alt="Moshi moshi, hold on desu~">
