@@ -1,8 +1,5 @@
-<link rel="stylesheet" href="https://fonts.googleapis.com/
-css?family=Sofia">
-
 <p align="center">
-    <strong style="font-family: 'Sofia', sans-serif; font-size: 18px;">⋆———✧◦♚◦✧——— I love you, with all my life ———✧◦♚◦✧———⋆</strong>
+    <strong style="font-size: 18px;">⋆———✧◦♚◦✧——— <span style="color: #FF69B4;">I love you, with all my life</span> ———✧◦♚◦✧———⋆</strong>
 </p>
 
 <br>
@@ -12,7 +9,9 @@ css?family=Sofia">
 
 ------------------------------
 
-<p align="center"> Player Status ??? </p>
+<p align="center">
+    <strong style="font-size: 16px;"> Player Status ??? </strong>
+</p>
 <br>
 
 <div align="center">
@@ -25,10 +24,11 @@ css?family=Sofia">
 
 ------------------------------
 
-<div align="center">
-
-<p>I'm Supporting For...</p>
+<p align="center">
+    <strong style="font-size: 16px;"> I'm Supporting For... </strong></p>
 <br>
+
+<div align="center">
 
 <a href="https://github.com/KotatsuApp/Kotatsu">
   <picture>
@@ -46,7 +46,9 @@ css?family=Sofia">
 
 ------------------------------
 
-<p align="center"> My Terminal ??? </p>
+<p align="center">
+    <strong style="font-size: 16px;"> My Terminal ??? </strong>
+</p><br>
 
 ```bash
  _____________________________
@@ -64,9 +66,9 @@ root@dra-arch:~# pacman -Syy && pacman -S zsh neovim docker
 
 ------------------------------
 
-<div align="center" style="max-width: 100%; height: auto;">
-
-<p> Spotify Player ??? </p>
+<p align="center">
+    <strong style="font-size: 16px;"> Spotify Player ??? </strong>
+</p><br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31btbkh4lektfx73fh2wpj3crzdm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31btbkh4lektfx73fh2wpj3crzdm&redirect=true)
 
