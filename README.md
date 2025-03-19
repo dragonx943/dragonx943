@@ -1,5 +1,5 @@
 <p align="center">
-    <strong style="font-size: 18px;">⋆———✧◦♚◦✧———「I love you, with all my life」———✧◦♚◦✧———⋆</strong>
+    <strong style="font-size: 18px;">⋆———✧◦♚◦✧———「$${\color{orange}I love you, with all my life}$$」———✧◦♚◦✧———⋆</strong>
 </p>
 
 <br>
