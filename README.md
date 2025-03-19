@@ -1,52 +1,48 @@
-$${\color{pink}⋆———✧◦♚◦✧———「 \space I \space love \space you, with \space all \space my \space life \space 」———✧◦♚◦✧———⋆}$$
+$${\color{pink}⋆—————✧◦♚◦✧—————「 \space I \space love \space you, with \space all \space my \space life \space 」—————✧◦♚◦✧—————⋆}$$
 
 <br>
 <img src="./.github/lumia.png" width="100%" alt="Moshi moshi, hold on desu~">
 
 <p align="center">「This is "Draken" in VRChat, Lumia took it~」</p>
 
-------------------------------
+$${\color{pink}⋆———✧◦♚◦✧———————————————————————————✧◦♚◦✧———⋆}$$
 
-<p align="center">
-    <strong style="font-size: 16px;"> Player Status ??? </strong>
-</p>
+$${\color{pink}「 \space Player \space status \space 」}$$
 <br>
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonx943&theme=transparent&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonx943&theme=transparent&layout=donut&text_color=FFC0CB&title_color=FFC0CB&icon_color=FFC0CB)
 
-![Draken's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonx943&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Draken's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonx943&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&text_color=FFC0CB&title_color=FFC0CB&icon_color=FFC0CB)
 
 </div>
 
-------------------------------
+$${\color{pink}⋆———✧◦♚◦✧———————————————————————————✧◦♚◦✧———⋆}$$
 
-<p align="center">
-    <strong style="font-size: 16px;"> I'm Supporting For... </strong></p>
+$${\color{pink}「 \space I'm \space supporting \space for... \space 」}$$
 <br>
 
 <div align="center">
 
 <a href="https://github.com/KotatsuApp/Kotatsu">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=KotatsuApp&repo=Kotatsu&bg_color=00000000&text_color=1976d2&title_color=1976d2&icon_color=0877d2&border_radius=10&description_lines_count=2&show_owner=true" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=KotatsuApp&repo=Kotatsu&bg_color=00000000&text_color=FFC0CB&title_color=FFC0CB&icon_color=FFC0CB&border_radius=10&description_lines_count=2&show_owner=true" media="(prefers-color-scheme: dark)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KotatsuApp&repo=Kotatsu&text_color=1976d2&title_color=1976d2&icon_color=0877d2&border_radius=10&description_lines_count=2&show_owner=true" alt="Kotatsu GitHub Repository">
   </picture>
 </a>
 <a href="https://github.com/KotatsuApp/Kotatsu-parsers">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=KotatsuApp&repo=Kotatsu-parsers&bg_color=00000000&text_color=1976d2&title_color=1976d2&icon_color=0877d2&border_radius=10&description_lines_count=2&show_owner=true" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=KotatsuApp&repo=Kotatsu-parsers&bg_color=00000000&text_color=FFC0CB&title_color=FFC0CB&icon_color=FFC0CB&border_radius=10&description_lines_count=2&show_owner=true" media="(prefers-color-scheme: dark)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KotatsuApp&repo=Kotatsu-parsers&text_color=1976d2&title_color=1976d2&icon_color=0877d2&border_radius=10&description_lines_count=2&show_owner=true" alt="Kotatsu-parsers GitHub Repository">
   </picture>
 </a><br></br>
 </div>
 
-------------------------------
+$${\color{pink}⋆———✧◦♚◦✧———————————————————————————✧◦♚◦✧———⋆}$$
 
-<p align="center">
-    <strong style="font-size: 16px;"> My Terminal ??? </strong>
-</p><br>
+$${\color{pink}「 \space My \space terminal \space (Arch \space Linux) \space 」}$$
+<br>
 
 ```bash
  _____________________________
@@ -62,11 +58,20 @@ $${\color{pink}⋆———✧◦♚◦✧———「 \space I \space love \spa
 root@dra-arch:~# pacman -Syy && pacman -S zsh neovim docker
 ```
 
-------------------------------
+```
+- helloworld("Print")
+! Hmmmmm...
++ print("Hello world")
+# I need to go outside and touch grass more!
+@@ private fun toDoList() = arraySetOf() @@
+```
+
+$${\color{pink}⋆———✧◦♚◦✧———————————————————————————✧◦♚◦✧———⋆}$$
 
 <div align="center" width="100%">
-    <strong style="font-size: 16px;"> Spotify Player ??? </strong>
-<br><br>
+
+$${\color{pink}「 \space Media \space player \space 」}$$
+<br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31btbkh4lektfx73fh2wpj3crzdm&cover_image=true&theme=default&show_offline=false&background_color=00000000&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
