@@ -73,7 +73,7 @@ $${\color{pink}⋆———✧◦♚◦✧————————————�
 $${\color{pink}「 \space Media \space player \space 」}$$
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31btbkh4lektfx73fh2wpj3crzdm&cover_image=true&theme=default&show_offline=false&background_color=00000000&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31btbkh4lektfx73fh2wpj3crzdm&cover_image=true&theme=default&show_offline=false&background_color=00000000&interchange=false&bar_color=FFC0CB)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
@@ -81,4 +81,4 @@ $${\color{pink}「 \space Media \space player \space 」}$$
 
 $${\color{pink}⋆———✧◦♚◦✧———「 \space Porns \space are \space temporary, success \space is \space forever... \space 」———✧◦♚◦✧———⋆}$$
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D&color=FFC0CB)](https://git.io/typing-svg)
