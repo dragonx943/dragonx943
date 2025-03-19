@@ -1,6 +1,4 @@
-<p align="center">
-    <strong style="font-size: 18px;">⋆———✧◦♚◦✧———「$${\color{orange}I love you, with all my life}$$」———✧◦♚◦✧———⋆</strong>
-</p>
+$${\color{pink}⋆———✧◦♚◦✧———「 \space I \space love \space you, with \space all \space my \space life \space 」———✧◦♚◦✧———⋆}$$
 
 <br>
 <img src="./.github/lumia.png" width="100%" alt="Moshi moshi, hold on desu~">
@@ -74,10 +72,8 @@ root@dra-arch:~# pacman -Syy && pacman -S zsh neovim docker
 
 </div>
 
-------------------------------
-
 <div align="center">
 
-「Porns are temporary, success is forever...」
+$${\color{pink}⋆———✧◦♚◦✧———「 \space Porns \space are \space temporary, success \space is \space forever... \space 」———✧◦♚◦✧———⋆}$$
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
