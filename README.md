@@ -66,9 +66,9 @@ root@dra-arch:~# pacman -Syy && pacman -S zsh neovim docker
 
 ------------------------------
 
-<p align="center">
+<div align="center">
     <strong style="font-size: 16px;"> Spotify Player ??? </strong>
-</p><br>
+<br><br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31btbkh4lektfx73fh2wpj3crzdm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31btbkh4lektfx73fh2wpj3crzdm&redirect=true)
 
