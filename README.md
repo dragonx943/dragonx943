@@ -12,10 +12,10 @@ css?family=Sofia">
 
 ------------------------------
 
-<div align="center">
+<p align="center"> Player Status ??? </p>
+<br><br>
 
-<p> Player Status ??? </p>
-<br>
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonx943&theme=transparent&layout=donut)
 
@@ -27,7 +27,7 @@ css?family=Sofia">
 
 <div align="center">
 
-<p>I'm Supporting For. . .</p>
+<p>I'm Supporting For...</p>
 <br>
 
 <a href="https://github.com/KotatsuApp/Kotatsu">
