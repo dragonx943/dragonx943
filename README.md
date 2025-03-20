@@ -1,11 +1,11 @@
-$${\color{pink}⋆————✧◦♚◦✧————「 \space I \space \space LOVE \space \space YOU, \space WITH \space \space ALL \space \space MY \space \space LIFE \space 」————✧◦♚◦✧————⋆}$$
+$${\color{pink}⋆———✧◦♚◦✧———「 \space I \space \space LOVE \space \space YOU, \space WITH \space \space ALL \space \space MY \space \space LIFE \space 」———✧◦♚◦✧———⋆}$$
 
 <br>
 <img src="./.github/lumia.png" width="100%" alt="Moshi moshi, hold on desu~">
 
 <p align="center">「This is "Draken" in VRChat, Lumia took it~」</p>
 
-$${\color{pink}⋆———✧◦♚◦✧——————————————————————✧◦♚◦✧———⋆}$$
+$${\color{pink}⋆———✧◦♚◦✧——————————————————✧◦♚◦✧———⋆}$$
 
 $${\color{pink}「 \space Player \space status \space 」}$$
 <br>
@@ -18,7 +18,7 @@ $${\color{pink}「 \space Player \space status \space 」}$$
 
 </div>
 
-$${\color{pink}⋆———✧◦♚◦✧——————————————————————✧◦♚◦✧———⋆}$$
+$${\color{pink}⋆———✧◦♚◦✧——————————————————✧◦♚◦✧———⋆}$$
 
 $${\color{pink}「 \space I'm \space supporting \space for... \space 」}$$
 <br>
@@ -39,7 +39,7 @@ $${\color{pink}「 \space I'm \space supporting \space for... \space 」}$$
 </a><br></br>
 </div>
 
-$${\color{pink}⋆———✧◦♚◦✧——————————————————————✧◦♚◦✧———⋆}$$
+$${\color{pink}⋆———✧◦♚◦✧——————————————————✧◦♚◦✧———⋆}$$
 
 $${\color{pink}「 \space My \space terminal \space (Arch \space Linux) \space 」}$$
 <br>
@@ -92,7 +92,7 @@ llllllllllllll  lllllllllllllllllll            Mem%:  -=[ //////////           ]
 # I need to go outside and touch grass more!
 ```
 
-$${\color{pink}⋆———✧◦♚◦✧——————————————————————✧◦♚◦✧———⋆}$$
+$${\color{pink}⋆———✧◦♚◦✧——————————————————✧◦♚◦✧———⋆}$$
 
 <div align="center" width="100%">
 
@@ -105,6 +105,6 @@ $${\color{pink}「 \space Media \space player \space 」}$$
 
 <div align="center">
 
-$${\color{pink}⋆———✧◦♚◦✧———「 \space Porns \space are \space temporary, success \space is \space forever... \space 」———✧◦♚◦✧———⋆}$$
+$${\color{pink}⋆——✧◦♚◦✧——「 \space Porns \space are \space temporary, success \space is \space forever... \space 」——✧◦♚◦✧——⋆}$$
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D&color=FFC0CB)](https://git.io/typing-svg)
