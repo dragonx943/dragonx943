@@ -5,7 +5,7 @@ $${\color{pink}「 \space I \space \space LOVE \space \space YOU, \space WITH \s
 
 <p align="center">「This is "Draken" in VRChat, Lumia took it~」</p>
 
-$${\color{pink}⋆———✧◦♚◦✧—————————✧◦♚◦✧———⋆}$$
+$${\color{pink}⋆——✧◦♚◦✧———————✧◦♚◦✧——⋆}$$
 
 $${\color{pink}「 \space Player \space status \space 」}$$
 <br>
