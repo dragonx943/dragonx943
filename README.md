@@ -1,12 +1,12 @@
-$${\color{pink}「 \space I \space \space LOVE \space \space YOU, \space WITH \space \space ALL \space \space MY \space \space LIFE \space 」}$$
+**「 I LIKE YOU, WITH ALL MY LIFE 」**
 
 <img src="./.github/lumia.png" width="100%" alt="Moshi moshi, hold on desu~">
 
 <p align="center">「This is "Draken" in VRChat, Lumia took it~」</p>
 
-$${\color{pink}⋆——✧◦♚◦✧———————✧◦♚◦✧——⋆}$$
+----------------------------
 
-$${\color{pink}「 \space Player \space status \space 」}$$
+**「 Player status 」**
 <br>
 
 <div align="center">
@@ -17,7 +17,7 @@ $${\color{pink}「 \space Player \space status \space 」}$$
 
 </div>
 
-$${\color{pink}「 \space I'm \space maintaining... \space 」}$$
+**「 I'm maintaining... 」**
 <br>
 
 <div align="center">
@@ -36,7 +36,7 @@ $${\color{pink}「 \space I'm \space maintaining... \space 」}$$
 </a><br></br>
 </div>
 
-$${\color{pink}「 \space My \space terminal \space 」}$$
+**「 My term ? 」**
 <br>
 
 ```bash
@@ -78,7 +78,7 @@ llllllllllllll  lllllllllllllllllll            Mem%:  -=[ //////////           ]
  W -> ~ -> shutdown -s -t 0
 ```
 
-$${\color{pink}「 \space Skill \space ??? \space 」}$$
+**「 Skill ??? 」**
 <br>
 
 ```diff
@@ -93,7 +93,7 @@ $${\color{pink}「 \space Skill \space ??? \space 」}$$
 
 <div align="center" width="100%">
 
-$${\color{pink}「 \space Media \space player \space 」}$$
+**「 Media player ? 」**
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31btbkh4lektfx73fh2wpj3crzdm&cover_image=true&theme=default&show_offline=false&background_color=00000000&interchange=false&bar_color=FFC0CB)](https://github.com/kittinan/spotify-github-profile)
@@ -102,6 +102,6 @@ $${\color{pink}「 \space Media \space player \space 」}$$
 
 <div align="center">
 
-$${\color{pink}「 \space Porns \space are \space temporary, success \space is \space forever... \space 」}$$
+**「 Porns are temporary, success is forever... 」**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D&color=FFC0CB)](https://git.io/typing-svg)
