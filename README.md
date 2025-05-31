@@ -10,10 +10,12 @@
 
 ----------------------------
 
-**「 Player status 」**
 <br>
 
 <div align="center">
+
+**「 Player status 」**
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonx943&theme=transparent&layout=donut&text_color=FFC0CB&title_color=FFC0CB&icon_color=FFC0CB)
 
@@ -21,10 +23,10 @@
 
 </div>
 
+<div align="center">
+
 **「 I'm maintaining... 」**
 <br>
-
-<div align="center">
 
 <a href="https://github.com/KotatsuApp/Kotatsu">
   <picture>
@@ -40,8 +42,12 @@
 </a><br></br>
 </div>
 
+<div align="center" width="100%">
+  
 **「 My term ? 」**
 <br>
+
+</div>
 
 ```bash
  _____________________________
@@ -82,8 +88,12 @@ llllllllllllll  lllllllllllllllllll            Mem%:  -=[ //////////           ]
  W -> ~ -> shutdown -s -t 0
 ```
 
+<div align="center" width="100%">
+  
 **「 Skill ??? 」**
 <br>
+
+</div>
 
 ```diff
 - helloworld("Print")
