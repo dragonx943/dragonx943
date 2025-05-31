@@ -3,6 +3,7 @@
   </strong>
 </div>
 
+<br>
 <img src="./.github/lumia.png" width="100%" alt="Moshi moshi, hold on desu~">
 
 <p align="center">「This is "Draken" in VRChat, Lumia took it~」</p>
