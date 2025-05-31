@@ -1,4 +1,7 @@
-**「 I LIKE YOU, WITH ALL MY LIFE 」**
+<div align="center">
+  <strong>「 I LIKE YOU, WITH ALL MY LIFE 」
+  </strong>
+</div>
 
 <img src="./.github/lumia.png" width="100%" alt="Moshi moshi, hold on desu~">
 
