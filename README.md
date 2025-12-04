@@ -18,7 +18,6 @@
 <br>
 
 ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dragonx943&theme=transparent)
-<br>
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dragonx943&theme=transparent)
 
 </div>
