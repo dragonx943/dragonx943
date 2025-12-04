@@ -17,9 +17,9 @@
 **「 Player status 」**
 <br>
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dragonx943&theme=tokyonight)
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dragonx943&theme=transparent)
 <br>
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonx943&theme=tokyonight)
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dragonx943&theme=transparent)
 
 </div>
 
