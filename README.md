@@ -17,29 +17,10 @@
 **「 Player status 」**
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonx943&theme=transparent&layout=donut&text_color=FFC0CB&title_color=FFC0CB&icon_color=FFC0CB)
-
-![Draken's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonx943&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&text_color=FFC0CB&title_color=FFC0CB&icon_color=FFC0CB)
-
-</div>
-
-<div align="center">
-
-**「 I'm maintaining... 」**
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dragonx943&theme=tokyonight)
 <br>
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonx943&theme=tokyonight)
 
-<a href="https://github.com/KotatsuApp/Kotatsu">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=KotatsuApp&repo=Kotatsu&bg_color=00000000&text_color=FFC0CB&title_color=FFC0CB&icon_color=FFC0CB&border_radius=10&description_lines_count=2&show_owner=true" media="(prefers-color-scheme: dark)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KotatsuApp&repo=Kotatsu&text_color=1976d2&title_color=1976d2&icon_color=0877d2&border_radius=10&description_lines_count=2&show_owner=true" alt="Kotatsu GitHub Repository">
-  </picture>
-</a>
-<a href="https://github.com/KotatsuApp/Kotatsu-parsers">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=KotatsuApp&repo=Kotatsu-parsers&bg_color=00000000&text_color=FFC0CB&title_color=FFC0CB&icon_color=FFC0CB&border_radius=10&description_lines_count=2&show_owner=true" media="(prefers-color-scheme: dark)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KotatsuApp&repo=Kotatsu-parsers&text_color=1976d2&title_color=1976d2&icon_color=0877d2&border_radius=10&description_lines_count=2&show_owner=true" alt="Kotatsu-parsers GitHub Repository">
-  </picture>
-</a><br></br>
 </div>
 
 <div align="center" width="100%">
